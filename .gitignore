@@ -1,0 +1,8 @@
+# Dependencies should not be uploaded to Git
+node_modules/
+
+# Keep database credentials and secrets private
+.env
+
+# Ignore temporary uploaded files
+uploads/*
